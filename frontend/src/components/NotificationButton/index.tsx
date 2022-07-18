@@ -22,7 +22,6 @@ function NotificationButton({saleId} : Props) {
             <img src={icon} alt="Notificar" />
         </div>
     )
-
 }
 
 export default NotificationButton;
